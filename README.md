@@ -13,6 +13,7 @@ This project is designed to process and visualize textual data using a **WordClo
 - Visualizing dominant themes in documents.
 - Enhancing text-based reports with engaging visual summaries.
 
+----
 
 ## Requirements
 
@@ -28,19 +29,20 @@ You can install the necessary libraries using the following:
 ```bash
 pip install wordcloud nltk matplotlib pandas
 ```
+-----
 
 ## Getting Started
 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/wordcloud-visualization.git
+git https://github.com/Jabulente/Wordcloud-Visualization.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd wordcloud-visualization
+cd Wordcloud-Visualization
 ```
 
 3. Ensure the necessary dependencies are installed:
@@ -51,13 +53,8 @@ pip install -r requirements.txt
 
 4. Modify the `input_text.txt` file or use your own text file to input the raw text.
 
-5. Run the main script:
 
-```bash
-python generate_wordcloud.py
-```
-
-6. The WordCloud image will be saved in the project directory.
+----
 
 ## Example Usage
 
